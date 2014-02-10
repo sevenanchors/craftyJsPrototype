@@ -41,6 +41,8 @@ Game = {
                 }
             }
         }
+
+        Crafty.e('PlayerCharacter').at(2,2);
     }
 }
 
